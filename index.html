@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script type="text/javascript">
+        window.onload = async function () {
+            // let i = Math.floor(Math.random() * 1679);
+            let i = 101
+            let response = await fetch("/predictions/" + i);
+            let pred = await response.json();
+            let predDiv = document.querySelector("#prediction");
+            predDiv.innerText = pred
+        }
+    </script>
+</head>
+
+<body>
+    <div id="prediction"></div>
+    <div id="explanation">
+        Hello world!
+    </div>
+</body>
+
+</html>
