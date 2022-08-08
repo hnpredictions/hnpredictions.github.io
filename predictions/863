@@ -1,0 +1,5 @@
+{
+    "prediction": "I predict within 10-20 years syscall overhead will dominate anything to the point that mitigation measures will have to be developed - batching, etc.",
+    "author": "nwmcsween",
+    "year": 2015
+}

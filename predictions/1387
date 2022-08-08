@@ -1,0 +1,5 @@
+{
+    "prediction": "I predict lots of subtle off by one bugs and crashes because of non-ascii inputs in the future of Julia.",
+    "author": "exDM69",
+    "year": 2014
+}

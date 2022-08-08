@@ -1,0 +1,5 @@
+{
+    "prediction": "I predict pg_stat_statements will be a huge leap in productivity in terms of tuning database indexes, which nobody gets around to getting time to do because it's a total pain to do the reporting about what is actually slow.",
+    "author": "fdr",
+    "year": 2012
+}
