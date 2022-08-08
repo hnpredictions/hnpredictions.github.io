@@ -9,7 +9,7 @@
             let response = await fetch("/predictions/" + i);
             let pred = await response.json();
             let predDiv = document.querySelector("#prediction");
-            predDiv.innerText = pred
+            predDiv.innerText = pred["prediction"]
         }
     </script>
 </head>
