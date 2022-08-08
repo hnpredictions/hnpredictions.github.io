@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict the bigger impact of this will be that namespace of single-letter modules on pypi will be used up shortly as people realize they want their own, slightly different hacks.",
-    "author": "storborg",
-    "year": 2010
+    "prediction": "I predict within 10-20 years syscall overhead will dominate anything to the point that mitigation measures will have to be developed - batching, etc.",
+    "author": "nwmcsween",
+    "year": 2015
 }

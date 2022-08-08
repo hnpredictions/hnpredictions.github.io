@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict future happiness for Americans, if they can prevent the government from wasting the labors of the people under the pretense of taking care of them.",
-    "author": "crispycret",
-    "year": 2013
+    "prediction": "I predict the winner will use some a mixture of Gaussian processes with various kernels and stochastic control (with a limited look ahead, otherwise it blows up) to pick the test points.",
+    "author": "murbard2",
+    "year": 2015
 }

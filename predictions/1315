@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict more code written in FORTRAN 77 is being used today that all of the code written in later dialects.",
-    "author": "punch_card",
+    "prediction": "I predict that VM vulnerabilities are going to creep into the JS ecosystem, put there in the name of optimization, much like the \"Use After Free\" vulnerabilities in the JVM for Android.",
+    "author": "stcredzero",
     "year": 2015
 }

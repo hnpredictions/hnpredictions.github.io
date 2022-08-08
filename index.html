@@ -2,6 +2,7 @@
 <html>
 
 <head>
+    <meta charset="UTF-8">
     <style>
         @import url('https://fonts.googleapis.com/css?family=Special+Elite');
 
@@ -59,7 +60,7 @@
     </style>
     <script type="text/javascript">
         window.onload = async function () {
-            let i = Math.floor(Math.random() * 1679);
+            let i = Math.floor(Math.random() * 1642);
             //let i = 101
             let response = await fetch("/predictions/" + i);
             let pred = await response.json();

@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict that things are going to get even crazier very soon.",
-    "author": "GavinB",
-    "year": 2009
+    "prediction": "I predict that Go is going to have to put a lot of effort into making the GC fast in order to compete with C++ and Java.",
+    "author": "ootachi",
+    "year": 2012
 }

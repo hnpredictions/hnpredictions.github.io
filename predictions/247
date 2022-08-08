@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict the winner will use some a mixture of Gaussian processes with various kernels and stochastic control (with a limited look ahead, otherwise it blows up) to pick the test points.",
-    "author": "murbard2",
+    "prediction": "I predict that they soon will.",
+    "author": "staunch",
     "year": 2015
 }

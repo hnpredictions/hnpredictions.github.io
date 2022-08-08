@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict that most of the people PG knows who self-identify as Internet addicts will eventually out-grow their compulsion.",
-    "author": "portman",
-    "year": 2010
+    "prediction": "I predict that if Go is successful it will acquire its own scalaz-equivalent; it pretty much has to, because there are patterns in the way you do things like error handling that it would be stupid to just repeat in every project.",
+    "author": "lmm",
+    "year": 2014
 }

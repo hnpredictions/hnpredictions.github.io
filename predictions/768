@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict that companies will not be quick to embrace technologies like these, because they are stuck with the legacy of the DMCA (and region coding) so the loss of net neutrality is inevitable.",
-    "author": "zackmorris",
-    "year": 2014
+    "prediction": "I predict that Apple will come out with a background-task API that puts hard realtime constraints on the work a background thread does.",
+    "author": "stcredzero",
+    "year": 2010
 }

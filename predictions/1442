@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict this will become fun to watch.",
-    "author": "nextparadigms",
-    "year": 2011
+    "prediction": "I predict that this will lead to unexpected performance problems due to collisions in Tx window size between TCP windows and HTTP 2.",
+    "author": "ddalex",
+    "year": 2013
 }

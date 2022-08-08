@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict roughly a month till they've circumvented it, if not sooner.",
-    "author": "solistice",
-    "year": 2013
+    "prediction": "I predict lots of subtle off by one bugs and crashes because of non-ascii inputs in the future of Julia.",
+    "author": "exDM69",
+    "year": 2014
 }
