@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict that they paid the NY Times for this article.",
-    "author": "cryoshon",
-    "year": 2014
+    "prediction": "I predict a WASI implementation which will treat ANY server resource as a virtual file, replacing REST.",
+    "by": "singularity2001",
+    "year": 2021
 }

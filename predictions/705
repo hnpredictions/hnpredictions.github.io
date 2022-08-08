@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict the new data stores like Redis, CouchDb and MongoDb will soon replace MySql as the default standard for new development.",
-    "author": "va_coder",
-    "year": 2009
+    "prediction": "I predict that page views will be spread out over a large number of URIs, so lets assume no caching.",
+    "by": "mattmiller",
+    "year": 2010
 }

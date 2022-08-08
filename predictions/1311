@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict it will be the most popular form of PC sold in America.",
-    "author": "saurik",
-    "year": 2011
+    "prediction": "I predict there will be a sort of resurgence in server-side CRUD frameworks again as being the hot trend you read about on HN, once people found out that you can easily build real-time, reactive UIs without having to context switch and directly deal with the often subpar client-side interfaces.",
+    "by": "vezzy-fnord",
+    "year": 2015
 }

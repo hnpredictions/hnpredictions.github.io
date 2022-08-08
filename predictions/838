@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict that Anonymous will face the same emotional reaction as al'Qaida.",
-    "author": "im3w1l",
-    "year": 2012
+    "prediction": "I predict degradation over time as repos grow in size and history (Git is not unique in this regard, but it’ll probably be more rapid and easier to observe with Git), so we might start using partial cloning.",
+    "by": "strogonoff",
+    "year": 2021
 }

@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict we are going to see many, many more ARM devices.",
-    "author": "thereason",
+    "prediction": "I predict that Go is going to have to put a lot of effort into making the GC fast in order to compete with C++ and Java.",
+    "by": "ootachi",
     "year": 2012
 }

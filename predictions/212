@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict the Lisp Machine will return, with Android OS Clojure hacking as its embryonic beginning of life.",
-    "author": "rplevy",
-    "year": 2009
+    "prediction": "I predict 10%-20% overhead based on measurements in other languages, though note that I think the entire concept of measuring the compilation speed overhead of generics is pretty much hopelessly flawed to begin with.",
+    "by": "pcwalton",
+    "year": 2015
 }

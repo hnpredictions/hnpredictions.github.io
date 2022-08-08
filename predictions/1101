@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict the brand value to shift over to Jenkins fairly quickly.",
-    "author": "pohl",
-    "year": 2011
+    "prediction": "I predict the bigger impact of this will be that namespace of single-letter modules on pypi will be used up shortly as people realize they want their own, slightly different hacks.",
+    "by": "storborg",
+    "year": 2010
 }

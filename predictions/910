@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict that, absent some solution to this issue, if Dart takes off, there will be sites that break in non-Chrome browsers when (for example) 64 bit hashing algorithms are involved due to authors only testing in Chrome and not testing the dart2js version.",
-    "author": "pcwalton",
-    "year": 2013
+    "prediction": "I predict there will be no shortage of amateurish and clunky apps for Metro platforms.",
+    "by": "marshray",
+    "year": 2012
 }

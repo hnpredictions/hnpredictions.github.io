@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict that this change will be reverted in a few months when the Go team realizes that code is read in a lot of different places, most of which never display hard tabs correctly.",
-    "author": "zak_mc_kracken",
-    "year": 2014
+    "prediction": "I predict many confused/rushed tech journalists will write articles that mention \"Amazon already has a Quantum Computing Product\" after this.",
+    "by": "CiPHPerCoder",
+    "year": 2018
 }

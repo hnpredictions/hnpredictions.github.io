@@ -1,0 +1,5 @@
+{
+    "prediction": "I predict that, given a few years, we'll start adding checks to linters and static analyzers to warn about using them because of the ambiguity and implicit conversion issues.",
+    "by": "humanrebar",
+    "year": 2017
+}

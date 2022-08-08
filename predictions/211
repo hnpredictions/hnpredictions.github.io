@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict this will fail.",
-    "author": "proee",
-    "year": 2010
+    "prediction": "I predict the principle of least privilege will appear in the conversation zero times, along with zero instances of seL4, microkernels.",
+    "by": "mikewarot",
+    "year": 2022
 }

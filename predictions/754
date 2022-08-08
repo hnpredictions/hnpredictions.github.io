@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict that there will be at least one serious attempt at that during the next 12 months.",
-    "author": "UweSchmidt",
-    "year": 2014
+    "prediction": "I predict that in the next 10 years, IBM is going to stop selling hardware (I'm not even sure why they haven't already, but then again, the company isn't exactly a paragon of good management) and just release some virtualization package that can run all the legacy crap on x86_64.",
+    "by": "smabie",
+    "year": 2020
 }

@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict the level of outrage won't match the scale of this crime, though.",
-    "author": "beedogs",
-    "year": 2013
+    "prediction": "I predict that someone will get fed up enough to revive the Firefox Qt port, since Qt doesn't break as much between releases, and it doesn't conflict with Mozilla's plans to drop GTK2 support.",
+    "by": "cm3",
+    "year": 2016
 }

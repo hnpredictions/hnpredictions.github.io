@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict over the next 5 years this will become a far bigger priority in how people develop software and thus use libraries.",
-    "author": "azinman2",
-    "year": 2014
+    "prediction": "I predict a linux distro will, after having switched to musl, also support llvm/compiler-rt/libunwind/libc++ as base toolchain instead of gcc/libgcc/libstdc++You're probably right, but I hate that the work free software developers contribute to LLVM & clang will end up being taken proprietary by the likes of Apple.",
+    "by": "zeveb",
+    "year": 2016
 }

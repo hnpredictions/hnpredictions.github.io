@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict I'll still prefer executing code at the local OS level to thin client code hosted within an application running in the local OS.",
-    "author": "gdulli",
-    "year": 2013
+    "prediction": "I predict that in 2017 there will be many \"business Blockchain\" products that will be a transaction ledger in a Merkle tree - because this is actually really good and a useful idea! - and that developers will be able to tell buzzword-prone management \"oh, we've been using, ahh, blockchain-related technologies since 2005!\" cos they use git.",
+    "by": "davidgerard",
+    "year": 2017
 }

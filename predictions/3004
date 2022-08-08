@@ -1,0 +1,5 @@
+{
+    "prediction": "I predict that over time Go's GC will evolve to become very similar to the modern GCs that Java HotSpot has.",
+    "by": "pcwalton",
+    "year": 2019
+}

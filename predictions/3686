@@ -1,0 +1,5 @@
+{
+    "prediction": "I predict that when a language comes about that has a better designed type system than C/C++ and yet still provides ability to control memory layout much as C does, eventually compilers for that language will emit assembly code that beats assembly emitted by C compilers for the same reason compiler-written assembly beats hand-written assembly -- compiler is able to leverage the type information (declared or -- in the case of dynamically typed languages with fast runtimes -- inferred) to aid optimization.",
+    "by": "strlen",
+    "year": 2013
+}

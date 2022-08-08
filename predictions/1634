@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict as the \"physical media\" generation ages, and the young grow up with the internet being pervasive in their lives, this pattern will only continue to grow.",
-    "author": "potatolicious",
-    "year": 2010
+    "prediction": "I predict Kotlin's coroutines will never be a centerpiece abstraction just like how people don't really use Go's channels (people in practice just go back to Mutexes).",
+    "by": "hombre_fatal",
+    "year": 2020
 }

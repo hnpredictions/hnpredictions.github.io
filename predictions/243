@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict the winner will use some a mixture of Gaussian processes with various kernels and stochastic control (with a limited look ahead, otherwise it blows up) to pick the test points.",
-    "author": "murbard2",
-    "year": 2015
+    "prediction": "I predict that airlines are going to soft ground the Max while this gets sorted out.",
+    "by": "rpmcmurphy",
+    "year": 2019
 }

@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict a combination from them from the company that gets as big as Square wants to be.",
-    "author": "michaeldhopkins",
-    "year": 2011
+    "prediction": "I predict that in 10 years distros will finally move toward a container native model (different from what we have now, but still based on containerization) and host their own registries for officially packaged containers.",
+    "by": "peterwwillis",
+    "year": 2020
 }

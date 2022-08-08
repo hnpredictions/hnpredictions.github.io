@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict this will be a big problem.",
-    "author": "rg",
-    "year": 2009
+    "prediction": "I predict nobody will ever feel the need to write a state management library for Svelte.",
+    "by": "mvolkmann",
+    "year": 2019
 }

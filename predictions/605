@@ -1,5 +1,5 @@
 {
-    "prediction": "I predict what a journalist's website will be like before I actually visit it.",
-    "author": "pstack",
-    "year": 2011
+    "prediction": "I predict ActionCable supports other backends than Redis eventually.",
+    "by": "gkop",
+    "year": 2015
 }
