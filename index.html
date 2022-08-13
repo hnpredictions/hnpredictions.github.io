@@ -61,7 +61,7 @@
     <script type="text/javascript">
         window.onload = async function () {
             const urlParams = new URLSearchParams(window.location.search);
-            let p = urlParpams.get('p');
+            let p = urlParams.get('p');
             if (!p){
                 p = Math.floor(Math.random() * 4680);  
             }
