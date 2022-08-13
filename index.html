@@ -60,9 +60,13 @@
     </style>
     <script type="text/javascript">
         window.onload = async function () {
-            let i = Math.floor(Math.random() * 4680);
-            //let i = 101
-            let response = await fetch("/predictions/" + i);
+            const urlParams = new URLSearchParams(window.location.search);
+            let p = urlParpams.get('p');
+            if (!p){
+                p = Math.floor(Math.random() * 4680);  
+            }
+            //p = 101
+            let response = await fetch("/predictions/" + pp);
             let pred = await response.json();
             let predBlockquote = document.querySelector("#prediction");
             predBlockquote.innerText = pred["prediction"];
