@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 
-body{
+body {
     font-family: 'Special Elite', cursive;
     background: #fffdf5;
     color: #3f3f5a;
@@ -15,8 +15,8 @@ body{
 
 blockquote {
     font-weight: 100;
-    font-size: 2rem;
-    max-width: 600px;
+    font-size: 3rem;
+    max-width: 800px;
     line-height: 1.4;
     margin: 50px auto 0;
     padding: .5rem;
@@ -36,6 +36,7 @@ blockquote:before {
 }
 
 cite {
+    font-size: 2rem;
     line-height: 3;
     text-align: center;
     display: table;
@@ -52,6 +53,7 @@ a {
 }
 
 .footer {
-    bottom:0;
+    font-size: 1.5rem;
+    bottom: 0;
     margin: 0 auto;
 }
