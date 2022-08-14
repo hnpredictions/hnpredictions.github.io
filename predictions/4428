@@ -1,4 +1,5 @@
 {
+    "id": 9096808,
     "prediction": "I predict that VM vulnerabilities are going to creep into the JS ecosystem, put there in the name of optimization, much like the \"Use After Free\" vulnerabilities in the JVM for Android.",
     "by": "stcredzero",
     "year": 2015

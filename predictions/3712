@@ -1,4 +1,5 @@
 {
+    "id": 11358366,
     "prediction": "I predict will eventually be part of standard PostgreSQL, but it will not be Citus's code (unless they change the license, of course).",
     "by": "gtrubetskoy",
     "year": 2016

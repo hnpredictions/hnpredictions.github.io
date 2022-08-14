@@ -1,4 +1,5 @@
 {
+    "id": 24778704,
     "prediction": "I predict \"aliens will land on or before December 1st\" with 100% and no aliens appear, then my Brier score is 1 (the worst).",
     "by": "jacques_chester",
     "year": 2020

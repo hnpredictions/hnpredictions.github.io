@@ -1,4 +1,5 @@
 {
+    "id": 23414760,
     "prediction": "I predict Kotlin's coroutines will never be a centerpiece abstraction just like how people don't really use Go's channels (people in practice just go back to Mutexes).",
     "by": "hombre_fatal",
     "year": 2020

@@ -1,4 +1,5 @@
 {
+    "id": 18080500,
     "prediction": "I predict that more and more companies will move critical services to the same DNS name or IP that their telemetry are using.",
     "by": "LinuxBender",
     "year": 2018

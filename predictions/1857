@@ -1,4 +1,5 @@
 {
+    "id": 20864133,
     "prediction": "I predict that at some point we will replace / augment supervised training for abstract reasoning tasks with \"unsupervised\" feedback from provers or verifiers (which can objectively verify if a conclusion makes sense).",
     "by": "DoctorOetker",
     "year": 2019

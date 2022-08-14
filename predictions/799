@@ -1,4 +1,5 @@
 {
+    "id": 23694232,
     "prediction": "I predict that we'll see more and more \"on-demand\" models: models that are JIT optimized for a target configuration (in this case, a specific camera).",
     "by": "gwern",
     "year": 2020

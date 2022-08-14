@@ -1,4 +1,5 @@
 {
+    "id": 11290055,
     "prediction": "I predict there will be a hybrid language that does gradual-affine typing that marries a GC, escape analysis and use at most once semantics.",
     "by": "sitkack",
     "year": 2016

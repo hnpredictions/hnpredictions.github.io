@@ -1,4 +1,5 @@
 {
+    "id": 24477164,
     "prediction": "I predict that at some point in the next five years we’ll start to see more apps that are written with webasm cross-compilation in mind, so that “browser” is just another target architecture, just like MacOS, Linux, and Windows.",
     "by": "dathanb82",
     "year": 2020

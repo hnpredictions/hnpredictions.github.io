@@ -1,4 +1,5 @@
 {
+    "id": 20044786,
     "prediction": "I predict a popular tool favored by the HN community will break, leading to a highly-upvoted front page post that instructs everyone on how to reinstall the shim wrapper using an unsigned tarball from an unsafe non-Apple source and zero patches to that tool from us to make it use the modern macOS-provided library instead.",
     "by": "floatingatoll",
     "year": 2019

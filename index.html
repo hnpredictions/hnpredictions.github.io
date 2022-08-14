@@ -18,6 +18,7 @@
             predBlockquote.innerText = pred["prediction"];
             let predCite = document.querySelector("#author");
             predCite.innerText = "-" + pred["by"] + " (" + pred["year"] + ")";
+            predCite.href = "https://news.ycombinator.com/item?id=" + pred["id"]
             let share = document.querySelector("#share");
             share.href = "/?p=" + p
         }
@@ -26,7 +27,7 @@
 
 <body>
     <blockquote id="prediction"></blockquote>
-    <cite id="author"></cite>
+    <cite><a target="_blank" id="author"></a></cite>
     <div class="footer">
         <p class="link"><a id="share">share link</a></p>
         <p class="link"><a href="/">random</a>

@@ -1,4 +1,5 @@
 {
+    "id": 7936419,
     "prediction": "I predict that these sort of things may be slicker initially, but open platforms focusing on one problem (ie: nodered or Huginn for rules, Owntracks for presence, TheThingSystem or Ninjablocks for pushing a bunch of readings to an MQTT hub from multiple protocols) will win out.",
     "by": "clockwerx",
     "year": 2014

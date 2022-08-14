@@ -1,4 +1,5 @@
 {
+    "id": 21528397,
     "prediction": "I predict we are moving towards a model where we have ways expressively define configuration (CUE) locally which we push to Kubernetes operators [0] which do the heavy lifting to deploy, monitor, and manage/upgrade a defined service that the operator is responsible for.",
     "by": "Cedricgc",
     "year": 2019

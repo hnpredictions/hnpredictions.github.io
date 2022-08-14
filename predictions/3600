@@ -1,4 +1,5 @@
 {
+    "id": 23217200,
     "prediction": "I predict that native desktop apps will make a comeback when there's QT-quality cross-platform framework in a more approachable language (Rust, nim, or similar).",
     "by": "nicoburns",
     "year": 2020

@@ -1,4 +1,5 @@
 {
+    "id": 24976865,
     "prediction": "I predict that in 10 years distros will finally move toward a container native model (different from what we have now, but still based on containerization) and host their own registries for officially packaged containers.",
     "by": "peterwwillis",
     "year": 2020

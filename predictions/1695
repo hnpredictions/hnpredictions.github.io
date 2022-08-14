@@ -1,4 +1,5 @@
 {
+    "id": 21307483,
     "prediction": "I predict that for CPU-intensive tasks, you'll keep using extensions in native code (like numpy or pytorch), or keep passing serialized objects through queues in multiprocessing setups.",
     "by": "nine_k",
     "year": 2019

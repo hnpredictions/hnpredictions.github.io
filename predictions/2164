@@ -1,4 +1,5 @@
 {
+    "id": 10761865,
     "prediction": "I predict that by 2030 you will be able to spin up a 100% \"blind\" sealed VM in the cloud for <$20/month that is fast enough to run what can run on an average cloud instance today.",
     "by": "api",
     "year": 2015

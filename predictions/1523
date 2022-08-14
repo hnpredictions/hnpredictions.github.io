@@ -1,4 +1,5 @@
 {
+    "id": 12373099,
     "prediction": "I predict that someone will get fed up enough to revive the Firefox Qt port, since Qt doesn't break as much between releases, and it doesn't conflict with Mozilla's plans to drop GTK2 support.",
     "by": "cm3",
     "year": 2016

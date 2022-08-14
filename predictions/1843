@@ -1,4 +1,5 @@
 {
+    "id": 26118143,
     "prediction": "I predict we'll see more frameworks targeting it (prototypes for Numpy, PyTorch, TF and general XLA already exist).",
     "by": "BadInformatics",
     "year": 2021

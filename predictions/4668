@@ -1,4 +1,5 @@
 {
+    "id": 23184601,
     "prediction": "I predict cdnjs/jsdelivr types will explode in use for Deno packages since they can make bandwidth and security guarantees behind what's actually returned from the URL as well will be able to accomodate versioning in the path.",
     "by": "diffrinse",
     "year": 2020

@@ -1,4 +1,5 @@
 {
+    "id": 1563871,
     "prediction": "I predict it will be a compiled language with rapid compilation and advanced debugging/runtime monkeypatching, such that most of the advantages of dynamic languages will be subsumed.",
     "by": "stcredzero",
     "year": 2010

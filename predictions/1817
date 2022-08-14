@@ -1,4 +1,5 @@
 {
+    "id": 23145012,
     "prediction": "I predict non-tech companies that still need some tech components, they will: * pick out the SaaS they need, and someone will write a tool to integrate the top different SaaS providers together * they will differentiate themselves from their competitors based on their product offering and branding, less so on tech So, I'm not saying that programmers in general will be able to plug and play backend infra like Legos, but that non-technical people will be able to mix and match the infra components they need without doing coding.",
     "by": "dbmikus",
     "year": 2020

@@ -1,4 +1,5 @@
 {
+    "id": 1084299,
     "prediction": "I predict that Apple will come out with a background-task API that puts hard realtime constraints on the work a background thread does.",
     "by": "stcredzero",
     "year": 2010

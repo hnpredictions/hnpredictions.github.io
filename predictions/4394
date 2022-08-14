@@ -1,4 +1,5 @@
 {
+    "id": 3722628,
     "prediction": "I predict Go will have a much tougher time here, unless a form of goroutine is created that can't share any state at all.",
     "by": "ootachi",
     "year": 2012

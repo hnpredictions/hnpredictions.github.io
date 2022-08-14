@@ -1,4 +1,5 @@
 {
+    "id": 9737287,
     "prediction": "I predict that about ten years from now, they'll just ditch the bloody memory-leaking browser and just ship out a VM and a language that will have a small GUI library with a DOM-like organization in the standard library compiling for it.",
     "by": "weland",
     "year": 2015

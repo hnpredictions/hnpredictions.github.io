@@ -1,4 +1,5 @@
 {
+    "id": 21994989,
     "prediction": "I predict that blacklisting unicode domains will become a \"best practice\" for security, but that eventually their use will become normal and accepted when the security issues have been worked out (perhaps by something as simple as using a different background color for unicode characters in the browser's location bar).",
     "by": "TimTheTinker",
     "year": 2020
