@@ -7,6 +7,7 @@
     <style>
         body {
             margin: 25px;
+            font-family: Arial;
         }
     </style>
 </head>
@@ -39,9 +40,11 @@
     </p>
     </br>
 
-    <small><sup>1</sup>SELECT * FROM bigquery-public-data.hacker_news.full WHERE text LIKE "%I predict%" on the <a
-            target="_blank" href="https://console.cloud.google.com/marketplace/details/y-combinator/hacker-news">Hacker
-            News BigQuery dataset</a>.</small><br />
+    <small><sup>1</sup><code>SELECT * FROM bigquery-public-data.hacker_news.full WHERE text LIKE "%I predict%"</code> on
+        the <a target="_blank"
+            href="https://console.cloud.google.com/marketplace/details/y-combinator/hacker-news">Hacker
+            News BigQuery dataset</a>, plus some mild <a target="_blank"
+            href="https://github.com/hnpredictions/hnpredictions.github.io/blob/main/prepare/create_json.ipynb">preparation</a>.</small><br />
     <small><sup>2</sup>This site uses "smartest" and "most pedantic" interchangeably.
 
 </body>
