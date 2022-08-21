@@ -1,0 +1,6 @@
+{
+    "id": 12692168,
+    "prediction": "I predict a linux distro will, after having switched to musl, also support llvm/compiler-rt/libunwind/libc++ as base toolchain instead of gcc/libgcc/libstdc++",
+    "by": "cm3",
+    "year": 2016
+}

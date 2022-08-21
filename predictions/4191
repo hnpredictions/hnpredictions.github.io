@@ -1,6 +1,6 @@
 {
     "id": 16445608,
-    "prediction": "I predict that in many organizations, containers will mean more instances of critical hot-fixes (to library components outside the kernel - e.",
+    "prediction": "I predict that in many organizations, containers will mean more instances of critical hot-fixes (to library components outside the kernel - eg openssl) not being applied across the board because the development teams manage the container image and once the product is in maintenance no one is going to be updating them.",
     "by": "jeremyjh",
     "year": 2018
 }

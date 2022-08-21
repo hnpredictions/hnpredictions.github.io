@@ -1,6 +1,6 @@
 {
     "id": 16160179,
-    "prediction": "I predict that 10 years from now normal relational databases have infrastructure for shared, authenticated and verified rows and columnsAgreed, though with the caveat that this is for transactional systems closer to the settlement/long term storage layers where the added assurance is useful.",
+    "prediction": "I predict that 10 years from now normal relational databases have infrastructure for shared, authenticated and verified rows and columns.",
     "by": "buckie",
     "year": 2018
 }

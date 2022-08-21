@@ -1,6 +1,6 @@
 {
     "id": 31513486,
-    "prediction": "I predict problems with DNS on 127.",
+    "prediction": "I predict problems with DNS on 127.0.0.1:53 on some hosts, thinking it might be better on 127.0.0.53:53 though I feel like that might already be commonly used for something.",
     "by": "linsomniac",
     "year": 2022
 }

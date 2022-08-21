@@ -1,6 +1,6 @@
 {
     "id": 9117358,
-    "prediction": "I predict that Joyent will support Node 0.",
+    "prediction": "I predict that Joyent will support Node 0.12 as an LTS release and io.js will become Node™ master.",
     "by": "cpeterso",
     "year": 2015
 }

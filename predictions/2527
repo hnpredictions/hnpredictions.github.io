@@ -1,6 +1,6 @@
 {
     "id": 29419754,
-    "prediction": "I predict that the requested feature set will eventually be equivalent to what is already in Bazel -- like `.",
+    "prediction": "I predict that the requested feature set will eventually be equivalent to what is already in Bazel -- like `.bazelrc` for setting up build variations and environment variables, and `query` for figuring out what is going on with the project.",
     "by": "no_circuit",
     "year": 2021
 }

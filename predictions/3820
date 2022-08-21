@@ -1,6 +1,6 @@
 {
     "id": 29706755,
-    "prediction": "I predict that this is going to cause real security issuesThat is a nasty problem, particularly in larger projects with different subsystems interacting (like say an xml parser and another).",
+    "prediction": "I predict that this is going to cause real security issues.",
     "by": "elcritch",
     "year": 2021
 }
